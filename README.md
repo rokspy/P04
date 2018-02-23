@@ -15,10 +15,10 @@ Sāku apgūt 'git' versiju kontroles sistēmu.
 * git clone http://github.com/... - Lejupladē projektu no Githuba uz termināļa
 * git add file.dat - pievieno failu indeksam(staging)
 * git commit - Veikto izmaiņu nodošana
-#### darbības commit vidē:
+* git push - nodod veiktās izmaiņas atpakaļ uz GitHub saitni
+### darbības commit vidē:
 * :w saglabā
 * :q pamet vidi
 
-* git push - nodod veiktās izmaiņas atpakaļ uz GitHub saitni
 
 
